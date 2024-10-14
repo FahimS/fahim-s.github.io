@@ -27,7 +27,7 @@ AKIJ iBOS | AKIJ Resources Ltd. (January 2023 – Present | Dhaka)
 
 ### Executive - ICT
 Asiatic Laboratories Ltd. (November 2021 – December 2022 | Dhaka)
-
+ 
 - Design and develop in-house software using Visual Basic.
 - Analyze inhouse depot database issues and solve problems.
 - Provide technical support and conduct issue analysis.
